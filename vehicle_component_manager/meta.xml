@@ -1,5 +1,5 @@
 <meta>
-    <info author="0sector, main OverLoad dev" version="1.0" name="Veh component viewer" type="script"/>
+    <info author="Me" version="1.0" name="Veh component viewer" type="script"/>
 
     <script type="client" cache="false" src="vehicle_component_manager.lua"/>
 </meta>
