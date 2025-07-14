@@ -1,0 +1,6 @@
+<meta>
+	<script src='server.lua' type='server' cache='false' />
+	<script src='client.lua' type='client' cache='false' />
+	
+	<export function='callNotify' type='server'/>
+</meta>

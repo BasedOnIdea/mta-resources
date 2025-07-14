@@ -1,0 +1,20 @@
+<meta>
+    <script src="client.lua" type="client" cache="false"/>   
+	
+    <file src="assets/bg_blur.png"/> 
+    
+	<file src="assets/hr_vehicles.png"/> 
+    <file src="assets/bg_vehicles.png"/> 
+	
+    <file src="assets/hr_numbers.png"/> 
+    <file src="assets/bg_numbers.png"/> 
+	
+    <file src="assets/btn_numbers.png"/> 
+    <file src="assets/btn_vehicles.png"/> 
+	
+    <file src="assets/title.png"/> 
+	
+    <file src="fonts/Lato/Lato-Bold.ttf"/> 
+    <file src="fonts/Roboto_Flex/RobotoFlex.ttf"/> 
+	
+</meta>
