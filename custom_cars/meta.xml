@@ -1,0 +1,10 @@
+<meta>
+    <info author="Me" version="1.0" name="Custom car system" type="script"/>
+    
+	<script type="shared" cache="false" src="cars_info.lua"/>
+	<script type="client" cache="false" src="client.lua"/>
+	<script type="server" cache="false" src="server.lua"/>
+	
+	<file src="models/*.txd"/>
+	<file src="models/*.dff"/>
+</meta>
